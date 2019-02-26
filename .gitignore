@@ -1,0 +1,26 @@
+# Ignore
+*.*
+
+# Allow
+!*.md
+!.gitignore
+!README
+!pom.xml
+!wesign-*/*.md
+!wesign-*/.gitignore
+!wesign-*/README
+!wesign-*/pom.xml
+!*.doc
+!*.docx
+!*.xls
+!*.xlsx
+!*.ppt
+!*.pptx
+!*.pdf
+!*.html
+!*.htm
+!*.png
+!*.jpeg
+!*.jpg
+!*.jpe
+!*.gif
